@@ -5,6 +5,8 @@ clear all
 
 pkg load symbolic
 
+
+
 syms t
 syms R
 syms C
